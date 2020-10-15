@@ -4,7 +4,7 @@ Philip Pauli & Gianna Höning-Kaprolat
 
 Digital Organizations 
 
-
+hALLLO WELT
 >>>>>>> 2f5539503105ace9e8afc13610bde33ade073da1
 ---
 
