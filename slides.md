@@ -4,54 +4,84 @@ Philip Pauli & Gianna Höning-Kaprolat
 
 Digital Organizations 
 
-hALLLO WELT
->>>>>>> 2f5539503105ace9e8afc13610bde33ade073da1
+
+>>>>>>> 
 ---
 
 # Agenda 
 
-1. What is Holacracy
+1. What is Holacracy?
 2. xc
 3. hjk
 4. Holacracy vs. Bureaucracy 
 5. History of Holacracy 
-6. Disadvantages and Advantages 
-7. The example of Zappos 
+6. Advantages 
+7. Disadvantages 
+8. The example of Zappos 
+9. Referneces 
 
 ---
 
-# What is **Holacracy** ?
+# 1. What is Holacracy ?
 
-* xc
-* vb
+* Practice/model for organizations, individuals and groups
+* Replaces artificial hierarchy with fractal holarchy of self-organizing teams 
 * bhjj
 
+---
+
+
 ![](H.png)
+ 
+
+
+
+
+
+
+
 
 ---
 
-# **Holacracy** vs **Bureaucracy** 
+# 2. **Holacracy** vs **Bureaucracy** 
 
 ![](HVB.png) 
 
 ---
 
+* based on non-hierarchic management model and distribution of authroity 
+
+
+
+---
 # History of **Holacracy** 
 
-* ggh
-* fgh
-* dg
-
-...
-
-# Advantages and Disadvantages 
-
-* ghj
-* ghk
-* rftzguio
+* New model, which integrates several existing models
+* redefined sociocracy
+* many incorporated ideas can be found in philisophy and psychology
 
 ---
 
+# Advantages 
+
+* Increased adaptability to oppoertunities and threats 
+* Peer-to-peer governance 
+* Employees not limited by hierarchical structures 
+* Opportunities and threats are observed on a daily basis 
+* Open exchange of opinions and information 
+
+---
+
+# Disadvanatges 
+
+* no clearl defined boundaries 
+* Theorists claim: too flat and chaotic
+* internal resistance (employees & management)
+* flat structures: mostly only conventient at a company's young age
+* No feeling of safety like in hierarchic organizations
+
+
+---
 # The company example of **Zappos** 
 
 ---
