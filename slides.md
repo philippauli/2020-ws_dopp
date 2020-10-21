@@ -11,12 +11,12 @@ Digital Organizations
 # Agenda 
 
 1. What is Holacracy?
-2. xc
-3. hjk
-4. Holacracy vs. Bureaucracy 
+2. The Concept
+3. Characteristics 
+4. Main Principles 
 5. History of Holacracy 
-6. Advantages 
-7. Disadvantages 
+6. Holacracy vs. Bureaucracy 
+7. Advantages and Disadvantages
 8. The example of Zappos 
 9. Referneces 
 
@@ -38,25 +38,30 @@ Digital Organizations
 
 
 
-
+# 2.The Concept 
 
 
 
 
 ---
+* based on non-hierarchic management model and distribution of authroity 
 
-# 2. **Holacracy** vs **Bureaucracy** 
+---
 
 ![](HVB.png) 
 
 ---
 
-* based on non-hierarchic management model and distribution of authroity 
 
+# 3.Characteeristics 
+
+---
+
+# 4.Main principles 
 
 
 ---
-# History of **Holacracy** 
+# 5.Histrory of Holacracy 
 
 * New model, which integrates several existing models
 * redefined sociocracy
@@ -64,7 +69,12 @@ Digital Organizations
 
 ---
 
-# Advantages 
+# 6.Holacracy vs. Bureaucracy 
+
+
+---
+
+# 7.Advantages 
 
 * Increased adaptability to oppoertunities and threats 
 * Peer-to-peer governance 
@@ -74,7 +84,7 @@ Digital Organizations
 
 ---
 
-# Disadvanatges 
+# 7.Disadvanatges 
 
 * no clearl defined boundaries 
 * Theorists claim: too flat and chaotic
@@ -84,11 +94,11 @@ Digital Organizations
 
 
 ---
-# The company example of **Zappos** 
+# 8.The company example of **Zappos** 
 
 ---
 
-# References 
+# 9.References 
 
 Krasula, N. et al. (2016). Holacracy - The new management sytsem. retrieved 10.10.2020 from http://isc2016.ekonomskifakultet.rs/ISCpdfs/ISC2016-19.pdf
 
