@@ -1,8 +1,8 @@
-
 # **Holacracy**
 Philip Pauli & Gianna Höning-Kaprolat
 
 Digital Organizations
+
 
 ---
 Test page
@@ -36,7 +36,6 @@ style="color:blue">some *blue* text
 8. The example of Zappos 
 9. Key Points
 10. Referneces 
-
 
 
 ---
