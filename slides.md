@@ -23,10 +23,9 @@ Digital Organizations
 ---
 
 # 1. What is Holacracy ?
-
 * Practice/model for organizations, individuals and groups
 * Replaces artificial hierarchy with fractal holarchy of self-organizing teams 
-* bhjj
+* QUOTE 
 
 ---
 
@@ -36,33 +35,34 @@ Digital Organizations
 
 ---
 
+Beschreibung was ist was vom Bild 
 
+---
 
 # 2.The Concept 
-
-
-
-
----
 * based on non-hierarchic management model and distribution of authroity 
+* Basis: distribution of authority 
 
----
 
-![](HVB.png) 
 
 ---
 
 
 # 3.Characteeristics 
+* Horizontal specialization 
+* Selective decentralization within and among teams 
+* Adjustment as basis of cooperation 
+* Grouping specialists into functional units 
 
 ---
 
 # 4.Main principles 
-
+* Dynamic planning 
+* Interactive organizational learning 
+* Integrative decision-making 
 
 ---
 # 5.Histrory of Holacracy 
-
 * New model, which integrates several existing models
 * redefined sociocracy
 * many incorporated ideas can be found in philisophy and psychology
@@ -70,7 +70,7 @@ Digital Organizations
 ---
 
 # 6.Holacracy vs. Bureaucracy 
-
+![](HVB.png) 
 
 ---
 
