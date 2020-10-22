@@ -1,4 +1,4 @@
-=======
+===
 # **Holacracy**
 Philip Pauli & Gianna Höning-Kaprolat
 
@@ -18,7 +18,9 @@ Digital Organizations
 6. Holacracy vs. Bureaucracy 
 7. Advantages and Disadvantages
 8. The example of Zappos 
-9. Referneces 
+9. Key Points
+10. Referneces 
+
 
 ---
 
@@ -32,7 +34,6 @@ Digital Organizations
 
 ![](H.png)
  
-
 ---
 
 Beschreibung was ist was vom Bild 
@@ -97,8 +98,13 @@ Beschreibung was ist was vom Bild
 # 8.The company example of **Zappos** 
 
 ---
+# 9. Key Points 
 
-# 9.References 
+3 
+
+---
+
+# 10.References 
 
 Krasula, N. et al. (2016). Holacracy - The new management sytsem. retrieved 10.10.2020 from http://isc2016.ekonomskifakultet.rs/ISCpdfs/ISC2016-19.pdf
 
