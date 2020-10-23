@@ -20,7 +20,7 @@ Digital Organizations
 6. Advantages and Disadvantages
 7. The example of Zappos 
 8. Key Points
-9. Referneces 
+
 
 
 ---
@@ -111,7 +111,7 @@ Digital Organizations
 
 
 ---
-# 8.The company example of **Zappos** 
+# 7.The company example of **Zappos** 
  
  * large, well-established and positioned company 
  * problem: execution of power and authority, bureaucracy 
@@ -132,16 +132,19 @@ Still tendencies to hierarchic patterns, but
 * shift of traditional control patterns 
 
 ---
-# 9. Key Points 
+# 8. Key Points 
 
 * Provides and promotes flexibility, transparency and adequate decision-making 
 * Sets a clear purpose, to be fulfilled by self-organizing teams and the distribution of responsibiity and authority 
 * To be successful: needs full support of all prticipants 
 
+---
+
+![](thanks.png)
 
 ---
 
-# 10.References 
+# References 
 
 Krasula, N. et al. (2016). Holacracy - The new management sytsem. retrieved 10.10.2020 from http://isc2016.ekonomskifakultet.rs/ISCpdfs/ISC2016-19.pdf
 
