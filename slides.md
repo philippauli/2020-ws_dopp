@@ -103,6 +103,7 @@ Digital Organizations
 * internal resistance (employees & management)
 * flat structures: mostly only conventient at a company's young age
 * No feeling of safety like in hierarchic organizations
+
 ---
 
 
@@ -133,7 +134,10 @@ Still tendencies to hierarchic patterns, but
 ---
 # 9. Key Points 
 
-3 
+* Provides and promotes flexibility, transparency and adequate decision-making 
+* Sets a clear purpose, to be fulfilled by self-organizing teams and the distribution of responsibiity and authority 
+* To be successful: needs full support of all prticipants 
+
 
 ---
 
