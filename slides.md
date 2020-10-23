@@ -37,9 +37,12 @@ Digital Organizations
 ![](H.png)
  
 ---
+![](Links.png)
 
-Beschreibung was ist was vom Bild 
-
+---
+* super-circles and sub-circles are connected via two special roles (links)
+* allow exchange of infomartion across circle boundaries 
+* different kinds of links 
 ---
 
 # 2.The Concept 
