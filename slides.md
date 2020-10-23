@@ -140,7 +140,7 @@ Still tendencies to hierarchic patterns, but
 
 ---
 
-![](thanks.png)
+![](x.png)
 
 ---
 
