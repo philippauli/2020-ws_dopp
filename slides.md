@@ -17,32 +17,42 @@ Digital Organizations
 3. Characteristics 
 4. Main Principles 
 5. History of Holacracy 
-6. Holacracy vs. Bureaucracy 
-7. Advantages and Disadvantages
-8. The example of Zappos 
-9. Key Points
-10. Referneces 
+6. Advantages and Disadvantages
+7. The example of Zappos 
+8. Key Points
+9. Referneces 
 
 
 ---
 
 # 1. What is Holacracy ?
+
+**“is a means of organizing which in every way surpasses conventional norms"**
+
 * Practice/model/social technology for governing and operating organizations, individuals and groups
 * Replaces artificial hierarchy with fractal holarchy of self-organizing teams 
-* QUOTE 
 
 ---
 
 
 ![](H.png)
  
+ ---
+
+* super-circle: top entity
+* Sub-circles are formed, when need arise 
+* Roles are appointed to sub-cricles 
+
 ---
+
 ![](Links.png)
 
 ---
-* super-circles and sub-circles are connected via two special roles (links)
+
+* super-circles and sub-circles are connected via two special roles 
 * allow exchange of infomartion across circle boundaries 
 * different kinds of links 
+
 ---
 
 # 2.The Concept 
@@ -76,12 +86,7 @@ Digital Organizations
 
 ---
 
-# 6.Holacracy vs. Bureaucracy 
-![](HVB.png) 
-
----
-
-# 7.Advantages 
+# 6.Advantages 
 
 * Increased adaptability to oppoertunities and threats 
 * Peer-to-peer governance 
@@ -91,13 +96,17 @@ Digital Organizations
 
 ---
 
-# 7.Disadvanatges 
+# 6.Disadvanatges 
 
 * No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
 * internal resistance (employees & management)
 * flat structures: mostly only conventient at a company's young age
 * No feeling of safety like in hierarchic organizations
+---
+
+
+![](HVB.png) 
 
 
 ---
