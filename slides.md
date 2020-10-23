@@ -1,4 +1,6 @@
 ===
+
+
 # **Holacracy**
 Philip Pauli & Gianna Höning-Kaprolat
 
@@ -8,7 +10,7 @@ Digital Organizations
 >>>>>>> 
 ---
 
-# Agenda 
+ # Agenda 
 
 1. What is Holacracy?
 2. The Concept
@@ -25,7 +27,7 @@ Digital Organizations
 ---
 
 # 1. What is Holacracy ?
-* Practice/model for organizations, individuals and groups
+* Practice/model/social technology for governing and operating organizations, individuals and groups
 * Replaces artificial hierarchy with fractal holarchy of self-organizing teams 
 * QUOTE 
 
@@ -41,8 +43,9 @@ Beschreibung was ist was vom Bild
 ---
 
 # 2.The Concept 
-* based on non-hierarchic management model and distribution of authroity 
-* Basis: distribution of authority 
+* based on non-hierarchic management model 
+* redistribution of authority based on defined roles 
+* meetings to ensure harmony and productivity within the team(s)
 
 
 
@@ -87,7 +90,7 @@ Beschreibung was ist was vom Bild
 
 # 7.Disadvanatges 
 
-* no clearl defined boundaries 
+* No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
 * internal resistance (employees & management)
 * flat structures: mostly only conventient at a company's young age
@@ -96,6 +99,24 @@ Beschreibung was ist was vom Bild
 
 ---
 # 8.The company example of **Zappos** 
+ 
+ * large, well-established and positioned company 
+ * problem: execution of power and authority, bureaucracy 
+ * strategy change: from sales volume to satisfaction
+ * goal: increase adaptabioity, creativity, engegament, teamwork and transparency 
+---
+
+Problems
+* some negative responses
+* fears connceted to the absence of hierarchy 
+* boycott
+* old behavioral patterns
+
+---
+
+Still tendencies to hierarchic patterns, but
+* shift of focus on corporate culture 
+* shift of traditional control patterns 
 
 ---
 # 9. Key Points 
@@ -111,6 +132,7 @@ Krasula, N. et al. (2016). Holacracy - The new management sytsem. retrieved 10.1
 Robertson, B. J. (2007). Organizations at the leading edge: Introducing Holacracy. Retrieved 20.09.2020 from http://gbds.us/clientuploads/downloads/Holacracy.pdf
 
 ---
+Robertson, B. J. (2015). Holacracy - The new management system for a rapidly changing world. Henry Holt and Company New York. p.9, 40
 
 Skorková, Z. et al. (2019). Is Holacracy bringing down hierarchy or is it only an appealing marketing slogan? EDAMBA 2019. p.461-469. Retrieved 10.10.2020 from https://edamba.euba.sk/www_write/files/archive/edamba2019_proceedings.pdf#page=474
 
