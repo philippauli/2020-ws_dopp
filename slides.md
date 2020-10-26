@@ -1,5 +1,3 @@
-===
-
 
 # **Holacracy**
 Philip Pauli & Gianna Höning-Kaprolat
