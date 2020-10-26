@@ -10,7 +10,7 @@ Digital Organizations
 >>>>>>> 
 ---
 
- # Agenda 
+ ## Agenda 
 
 1. What is Holacracy?
 2. The Concept
@@ -25,7 +25,7 @@ Digital Organizations
 
 ---
 
-# 1. What is Holacracy ?
+## 1. What is Holacracy ?
 
 **“is a means of organizing which in every way surpasses conventional norms"**
 
@@ -55,7 +55,7 @@ Digital Organizations
 
 ---
 
-# 2.The Concept 
+## 2.The Concept 
 * based on non-hierarchic management model 
 * redistribution of authority based on defined roles 
 * meetings to ensure harmony and productivity within the team(s)
@@ -65,7 +65,7 @@ Digital Organizations
 ---
 
 
-# 3.Characteeristics 
+## 3.Characteeristics 
 * Horizontal specialization 
 * Selective decentralization within and among teams 
 * Adjustment as basis of cooperation 
@@ -73,20 +73,20 @@ Digital Organizations
 
 ---
 
-# 4.Main principles 
+## 4.Main principles 
 * Dynamic planning 
 * Interactive organizational learning 
 * Integrative decision-making 
 
 ---
-# 5.Histrory of Holacracy 
+## 5.Histrory of Holacracy 
 * New model, which integrates several existing models
 * redefined sociocracy
 * many incorporated ideas can be found in philisophy and psychology
 
 ---
 
-# 6.Advantages 
+## 6.Advantages 
 
 * Increased adaptability to oppoertunities and threats 
 * Peer-to-peer governance 
@@ -96,7 +96,7 @@ Digital Organizations
 
 ---
 
-# 6.Disadvanatges 
+## 7.Disadvanatges 
 
 * No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
@@ -111,7 +111,7 @@ Digital Organizations
 
 
 ---
-# 7.The company example of **Zappos** 
+## 7.The company example of **Zappos** 
  
  * large, well-established and positioned company 
  * problem: execution of power and authority, bureaucracy 
@@ -132,7 +132,7 @@ Still tendencies to hierarchic patterns, but
 * shift of traditional control patterns 
 
 ---
-# 8. Key Points 
+## 8. Key Points 
 
 * Provides and promotes flexibility, transparency and adequate decision-making 
 * Sets a clear purpose, to be fulfilled by self-organizing teams and the distribution of responsibiity and authority 
@@ -144,7 +144,7 @@ Still tendencies to hierarchic patterns, but
 
 ---
 
-# References 
+## References 
 
 Krasula, N. et al. (2016). Holacracy - The new management sytsem. retrieved 10.10.2020 from http://isc2016.ekonomskifakultet.rs/ISCpdfs/ISC2016-19.pdf
 
