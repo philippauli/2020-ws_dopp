@@ -33,7 +33,6 @@ Digital Organizations
 
 ---
 
-
 ![](H.png)
  
 ---
