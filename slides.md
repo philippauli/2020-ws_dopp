@@ -7,7 +7,6 @@ Philip Pauli & Gianna Höning-Kaprolat
 Digital Organizations 
 
 
->>>>>>> 
 ---
 
  ## Agenda 
@@ -37,7 +36,7 @@ Digital Organizations
 
 ![](H.png)
  
- ---
+---
 
 * super-circle: top entity
 * Sub-circles are formed, when need arise 
