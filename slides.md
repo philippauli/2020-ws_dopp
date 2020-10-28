@@ -35,7 +35,7 @@ Digital Organizations
  
 ---
 
-* super-circle: top entity
+* Super-circle: top entity
 * Sub-circles are formed, when need arise 
 * Roles are appointed to sub-cricles 
 
@@ -45,16 +45,16 @@ Digital Organizations
 
 ---
 
-* super-circles and sub-circles are connected via two special roles 
-* allow exchange of infomartion across circle boundaries 
-* different kinds of links 
+* Super-circles and sub-circles are connected via two special roles 
+* Allow exchange of infomartion across circle boundaries 
+* Different kinds of links 
 
 ---
 
 ## 2.The Concept 
-* based on non-hierarchic management model 
-* redistribution of authority based on defined roles 
-* meetings to ensure harmony and productivity within the team(s)
+* Based on non-hierarchic management model 
+* Redistribution of authority based on defined roles 
+* Meetings to ensure harmony and productivity within the team(s)
 
 
 
@@ -77,8 +77,8 @@ Digital Organizations
 ---
 ## 5.Histrory of Holacracy 
 * New model, which integrates several existing models
-* redefined sociocracy
-* many incorporated ideas can be found in philisophy and psychology
+* Redefined sociocracy
+* Many incorporated ideas can be found in philisophy and psychology
 
 ---
 
@@ -97,7 +97,7 @@ Digital Organizations
 * No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
 * internal resistance (employees & management)
-* flat structures: mostly only conventient at a company's young age
+* Flat structures: mostly only conventient at a company's young age
 * No feeling of safety like in hierarchic organizations
 
 ---
@@ -109,17 +109,17 @@ Digital Organizations
 ---
 ## 7.The company example of **Zappos** 
  
- * large, well-established and positioned company 
- * problem: execution of power and authority, bureaucracy 
- * strategy change: from sales volume to satisfaction
- * goal: increase adaptabioity, creativity, engegament, teamwork and transparency 
+ * Large, well-established and positioned company 
+ * Problem: execution of power and authority, bureaucracy 
+ * Strategy change: from sales volume to satisfaction
+ * Goal: increase adaptabioity, creativity, engegament, teamwork and transparency 
 ---
 
 Problems
-* some negative responses
-* fears connceted to the absence of hierarchy 
-* boycott
-* old behavioral patterns
+* Some negative responses
+* Fears connceted to the absence of hierarchy 
+* Boycott
+* Old behavioral patterns
 
 ---
 
