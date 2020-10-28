@@ -92,7 +92,7 @@ Digital Organizations
 
 ---
 
-## 7.Disadvanatges 
+## 6.Disadvanatges 
 
 * No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
