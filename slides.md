@@ -84,7 +84,7 @@ Digital Organizations
 
 ## 6.Advantages 
 
-* Increased adaptability to oppoertunities and threats 
+* Increased adaptability to opportunities and threats 
 * Peer-to-peer governance 
 * Employees not limited by hierarchical structures 
 * Opportunities and threats are observed on a daily basis 
@@ -97,7 +97,7 @@ Digital Organizations
 * No clearly defined boundaries 
 * Theorists claim: too flat and chaotic
 * internal resistance (employees & management)
-* Flat structures: mostly only conventient at a company's young age
+* Flat structures: mostly only convenient at a company's young age
 * No feeling of safety like in hierarchic organizations
 
 ---
@@ -131,8 +131,8 @@ Still tendencies to hierarchic patterns, but
 ## 8. Key Points 
 
 * Provides and promotes flexibility, transparency and adequate decision-making 
-* Sets a clear purpose, to be fulfilled by self-organizing teams and the distribution of responsibiity and authority 
-* To be successful: needs full support of all prticipants 
+* Sets a clear purpose, to be fulfilled by self-organizing teams and the distribution of responsibility and authority 
+* To be successful: needs full support of all participants 
 
 ---
 
