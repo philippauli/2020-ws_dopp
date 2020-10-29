@@ -75,7 +75,7 @@ Digital Organizations
 * Integrative decision-making 
 
 ---
-## 5.Histrory of Holacracy 
+## 5.History of Holacracy 
 * New model, which integrates several existing models
 * Redefined sociocracy
 * Many incorporated ideas can be found in philisophy and psychology
