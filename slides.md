@@ -61,7 +61,7 @@ Digital Organizations
 ---
 
 
-## 3.Characteeristics 
+## 3.Characteristics 
 * Horizontal specialization 
 * Selective decentralization within and among teams 
 * Adjustment as basis of cooperation 
